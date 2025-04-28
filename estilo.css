@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(243, 242, 243);
+    margin: 10px;
+    padding-inline:10%;
+  }
+  
+  .contenedor {
+  
+    margin: 10px;
+
+  }
+  
+  .cabecera {
+    background-color: #75c1d4;
+    margin: 1px;
+   
+    
+  }
+  
+  .foto_perfil {
+    margin: 10px;
+    width: 200px;
+    border-radius: 50%;
+    width: 35%;
+    align-items: center;
+    display: flex;
+    gap: 100%;
+    
+  }
+  .nombre_foto{
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 40px;
+    
+  }
+
+  
+  .contenido_cv {
+  margin: 3px;
+  display:;
+  margin-top: 1%;
+  background-color: rgb(67, 82, 82);
+  display: flex;
+  }
+ .columna1{
+  padding-right: 45px;
+  padding-left: 10px;
+  
+ }
+  .columna2{
+    background-color: lab(72.23% -54.39 17.65);
+    padding-left: 10px;
+    width: 200%;
+    padding-right: 10px;
+   
+  }
+  
+  .abajo {
+    background-color: rgb(128, 172, 209);
+    margin: 1px;
+    
+  }
+.seccion1{
+  display: flex;
+  padding:2%
+}
+.seccion2{
+  display: flex;
+  margin-left:150px;
+}
+
+.seccion3{
+  display: flex;
+  margin-left:150px;
+  
+  
+
+  
+}
